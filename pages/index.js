@@ -67,7 +67,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Create Next App</title>
+        <title>Tic Tac Toe</title>
       </Head>
         <h1>Tic Tac Toe</h1>
         <div className='game'>
